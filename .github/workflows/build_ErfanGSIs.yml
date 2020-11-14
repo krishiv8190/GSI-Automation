@@ -18,7 +18,7 @@ env:
   ROM_NAME: OxygenOS for Android 10
   ZIP_NAME: Oos
   TZ: Asia/Kolkata
-  MIR: bit
+  MIR: wet
 jobs:
   build:
     runs-on: ubuntu-latest
