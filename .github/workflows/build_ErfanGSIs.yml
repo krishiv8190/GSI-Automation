@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  ROM_NAME: ColorOS
-  ZIP_NAME: Realmeme
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.48_GLO_048_2010042239/OnePlus6Oxygen_22.J.48_OTA_048_all_2010042239_c0c1fee2ee.zip
+  ROM_NAME: OxygenOs
+  ZIP_NAME: Oos
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
