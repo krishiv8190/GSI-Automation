@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_068_all_2006012227_f63ba0f8b46a4c4a.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.J.69_GLO_069_2010292144/OnePlus5TOxygen_43_OTA_069_all_2010292144_de4a6fa.zip
   ROM_NAME: OxygenOS for Android 10
   ZIP_NAME: Oos
   TZ: Asia/Kolkata
